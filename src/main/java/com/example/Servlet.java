@@ -13,8 +13,8 @@ public class Servlet extends HttpServlet {
         out.println("<html><head><title>Devops Lab 4</title></head><body>");
         out.println("<h1>Welcome to Tomcat</h1>");
         out.println("<ul>");
-        out.println("<li>Jereme</li>");
-        out.println("<li>2021WB86864</li>");
+        out.println("<li>Balaramakrishnan</li>");
+        out.println("<li>2021WA86259</li>");
         out.println("</ul>");
         out.println("</body></html>");
     }
